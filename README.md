@@ -312,7 +312,7 @@ Remaining work includes:
 Computer Systems Technology Student  
 Saskatchewan Polytechnic
 
-**GitHub:** [thv-cyber](https://github.com/thv-cyber)
+**GitHub:** [devSatoruu](https://github.com/devSatoruu)
 
 ---
 
